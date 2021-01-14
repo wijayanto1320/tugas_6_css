@@ -1,0 +1,16 @@
+p{
+  width: 200px;
+  overflow: scroll;
+  height: 100px;
+  margin: 20px;
+  background: #33cccc;
+}
+.satu{
+  border: 10px dotted red;
+}
+.dua{
+  border: 10px solid green;
+}
+.tiga{
+  border: 10px dashed blue;
+}
